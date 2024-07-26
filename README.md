@@ -1,1 +1,0 @@
-# zugspitzarena-2024

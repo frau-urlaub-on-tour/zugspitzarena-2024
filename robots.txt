@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://frau-urlaub-on-tour.github.io/zugapitzarena-2024/sitemap.xml
